@@ -41,6 +41,7 @@ module.exports = {
   safeAfter: require('../Maybe/safeAfter'),
   safeLift: require('../Maybe/safeLift'),
   setPath: require('./setPath'),
+  setProp: require('./setProp'),
   tap: require('./tap'),
   toPairs: require('../Pair/toPairs'),
   tryCatch: require('../Result/tryCatch'),
