@@ -46,5 +46,6 @@ module.exports = {
   tryCatch: require('../Result/tryCatch'),
   unary: require('./unary'),
   unit: require('./unit'),
-  unsetPath: require('./unsetPath')
+  unsetPath: require('./unsetPath'),
+  unsetProp: require('./unsetProp')
 }
